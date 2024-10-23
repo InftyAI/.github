@@ -1,6 +1,6 @@
 # Hey, this is InftyAI 🪂
 
-InftyAI community is a non-profit organization focused on building AI infrastructure. **We 💙 Open Source**
+InftyAI community is a non-profit organization focused on building AI infrastructure. **We 💙 Open Source**.
 
 **All kinds of contributions** are welcomed to the community, like PRs, Issues, New Ideas, Docs, Discussions and more.
 
