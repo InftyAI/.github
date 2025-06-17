@@ -8,4 +8,5 @@ If you have made **multiple contributions** to the community or projects, enough
 
 We also have an official fundraising venue through [OpenCollective](https://opencollective.com/inftyai). We'll use the fund transparently to support the development, maintenance, and adoption of our community.
 
-Link us via [Slack](https://join.slack.com/t/inftyai/shared_invite/zt-3700res2c-_AuBGD3kixDJhzycFE6L5A), [Twitter](https://x.com/InftyAI) as well.
+Link us via [Discord](https://discord.gg/UWnjUG6X8j
+), [Slack](https://join.slack.com/t/inftyai/shared_invite/zt-3700res2c-_AuBGD3kixDJhzycFE6L5A), [Twitter](https://x.com/InftyAI) as well.
