@@ -1,6 +1,6 @@
 # Hey, this is InftyAI 🪂
 
-InftyAI is a non-profit organization focused on building AI infrastructures, like LLM inference, distributed cache system, multi-agent framework etc.. **We 💙 Open Source**.
+InftyAI is a non-profit organization focused on building AI infrastructures, like LLM inference, distributed cache system, AI Agent etc.. **We 💙 Open Source**.
 
 **All kinds of contributions** are welcomed to the community, like PR, Issue, Idea, Documentation and more.
 
