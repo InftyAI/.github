@@ -1,6 +1,6 @@
 # Hey, this is InftyAI 🪂
 
-InftyAI is a non-profit organization focused on building AI infrastructure, including model training & inference, agentic systems and cloud platforms. **We 💙 Open Source**.
+InftyAI is a non-profit organization focused on building AI infrastructure, including model training & inference, agentic systems and more. **We 💙 Open Source**.
 
 **All kinds of contributions** are welcomed to the community, like PRs, issues, new ideas, documentations and more.
 
