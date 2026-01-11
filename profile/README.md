@@ -1,3 +1,14 @@
+<p align="center">
+  <img src="https://github.com/InftyAI/website/blob/main/assets/images/logo.png?raw=true" alt="inftyai logo" width="10%" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/inftyai"><img src="https://img.shields.io/github/stars/inftyai" /></a>
+  <a href="https://x.com/inftyai"><img src="https://img.shields.io/badge/X-@inftyai-black?logo=twitter&logoColor=white" /></a>
+  <a href="https://join.slack.com/t/inftyai/shared_invite/zt-3700res2c-_AuBGD3kixDJhzycFE6L5A"><img src="https://img.shields.io/badge/Slack-000000?style=flat&logo=slack"/></a>
+  <a href="https://discord.gg/UWnjUG6X8j"><img src="https://img.shields.io/badge/Discord-000000?style=flat&logo=discord" /></a>
+</p>
+
 # Hey, this is InftyAI 🪂
 
 InftyAI is a non-profit organization focused on building AI infrastructure, including model training & inference, agentic systems and more. **We 💙 Open Source**.
@@ -8,5 +19,4 @@ If you have made **multiple contributions** to the community or projects, enough
 
 We also have an official fundraising venue through [OpenCollective](https://opencollective.com/inftyai). We'll use the fund transparently to support the development, maintenance, and adoption of our community.
 
-Link us via [Slack](https://join.slack.com/t/inftyai/shared_invite/zt-3700res2c-_AuBGD3kixDJhzycFE6L5A), [Discord](https://discord.gg/UWnjUG6X8j
-), [Twitter](https://x.com/InftyAI) as well.
+Welcome to join us!
