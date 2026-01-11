@@ -4,9 +4,9 @@
 
 <p align="center">
   <a href="https://github.com/inftyai"><img src="https://img.shields.io/github/stars/inftyai" /></a>
-  <a href="https://x.com/inftyai"><img src="https://img.shields.io/badge/X-@inftyai-black?logo=twitter&logoColor=white" /></a>
-  <a href="https://join.slack.com/t/inftyai/shared_invite/zt-3700res2c-_AuBGD3kixDJhzycFE6L5A"><img src="https://img.shields.io/badge/Slack-000000?style=flat&logo=slack"/></a>
-  <a href="https://discord.gg/UWnjUG6X8j"><img src="https://img.shields.io/badge/Discord-000000?style=flat&logo=discord" /></a>
+  <a href="https://x.com/inftyai"><img src="https://img.shields.io/badge/InftyAI-000000?style=flat&logo=x" /></a>
+  <a href="https://join.slack.com/t/inftyai/shared_invite/zt-3700res2c-_AuBGD3kixDJhzycFE6L5A"><img src="https://img.shields.io/badge/Slack-4A154B?style=flat&logo=slack"/></a>
+  <a href="https://discord.gg/UWnjUG6X8j"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a>
 </p>
 
 # Hey, this is InftyAI 🪂
