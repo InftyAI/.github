@@ -12,6 +12,35 @@
 
 InftyAI is a non-profit organization focused on building AI infrastructure, including model training & inference, agentic systems and more. **We 💙 Open Source**.
 
+## Projects
+
+### 📚 Awesome Lists
+
+- [Awesome-LLMOps](https://github.com/InftyAI/Awesome-LLMOps): A curated list of the best LLMOps tools.
+- [Awesome-Kernel-Agents](https://github.com/InftyAI/Awesome-Kernel-Agents): A curated list of AI agents for GPU kernel generation, optimization, and verification.
+
+### 🧠 Inference & Model Serving
+
+- [llmaz](https://github.com/InftyAI/llmaz): Easy, advanced inference platform for large language models on Kubernetes.
+- [PUMA](https://github.com/InftyAI/PUMA): A lightweight, high-performance model engine for local AI.
+- [AMRS](https://github.com/InftyAI/AMRS): The adaptive model routing system for exploration and exploitation.
+- [mlx](https://github.com/InftyAI/mlx): Rust bindings for Apple's MLX framework.
+
+### ☸️ Infrastructure
+
+- [Nebula](https://github.com/InftyAI/Nebula): The control plane for GPUaaS — across neoclouds, hyperscalers, and your own infrastructure.
+
+### 🤖 Agents & Experimentation
+
+- [alphatrion](https://github.com/InftyAI/alphatrion): The open-source framework for LLM experiments and agent orchestration.
+- [SandD](https://github.com/InftyAI/SandD): A lightweight sandbox daemon for secure agent execution in isolated environments.
+
+### 🗄️ Storage
+
+- [omnistore](https://github.com/InftyAI/omnistore): A unified Python client for various object-store providers.
+
+## Community
+
 **All kinds of contributions** are welcomed to the community, like PRs, issues, new ideas, documentations and more.
 
 If you have made **multiple contributions** to the community or projects, enough to demonstrate an ongoing and long-term commitment to the community, please [Open an issue](https://github.com/InftyAI/community/issues/new?assignees=&labels=kind%2Fdocumentation&projects=&template=membership.yaml&title=REQUEST%3A+New+membership+for+%3Cyour-GH-handle%3E) against the _InftyAI/community_ repo to join us.
