@@ -32,7 +32,7 @@ InftyAI is a non-profit organization focused on building AI infrastructure, incl
 
 ### 🤖 Agents & Experimentation
 
-- [alphatrion](https://github.com/InftyAI/alphatrion): The open-source framework for LLM experiments and agent orchestration.
+- [alphatrion](https://github.com/InftyAI/alphatrion): The open-source recursive self-improvement system.
 - [SandD](https://github.com/InftyAI/SandD): A lightweight sandbox daemon for secure agent execution in isolated environments.
 
 ### 🗄️ Storage
