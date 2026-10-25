@@ -30,7 +30,7 @@ InftyAI is a non-profit organization focused on building AI infrastructure, incl
 
 - [Nebula](https://github.com/InftyAI/Nebula): The control plane for GPUaaS — across neoclouds, hyperscalers, and your own infrastructure.
 
-### 🤖 Agents & Experimentation
+### 🤖 Agents 
 
 - [alphatrion](https://github.com/InftyAI/alphatrion): The open-source recursive self-improvement system.
 - [SandD](https://github.com/InftyAI/SandD): A lightweight sandbox daemon for secure agent execution in isolated environments.
