@@ -16,15 +16,15 @@ InftyAI is a non-profit organization focused on building AI infrastructure, incl
 
 ### 📚 Awesome Lists
 
-- [Awesome-LLMOps](https://github.com/InftyAI/Awesome-LLMOps): A curated list of the best LLMOps tools.
 - [Awesome-Kernel-Agents](https://github.com/InftyAI/Awesome-Kernel-Agents): A curated list of AI agents for GPU kernel generation, optimization, and verification.
+- [Awesome-LLMOps](https://github.com/InftyAI/Awesome-LLMOps): A curated list of the best LLMOps tools.
 
 ### 🧠 Inference & Model Serving
 
-- [llmaz](https://github.com/InftyAI/llmaz): Easy, advanced inference platform for large language models on Kubernetes.
-- [PUMA](https://github.com/InftyAI/PUMA): A lightweight, high-performance model engine for local AI.
 - [AMRS](https://github.com/InftyAI/AMRS): The adaptive model routing system for exploration and exploitation.
+- [llmaz](https://github.com/InftyAI/llmaz): Easy, advanced inference platform for large language models on Kubernetes.
 - [mlx](https://github.com/InftyAI/mlx): Rust bindings for Apple's MLX framework.
+- [PUMA](https://github.com/InftyAI/PUMA): A lightweight, high-performance model engine for local AI.
 
 ### ☸️ Infrastructure
 
@@ -38,6 +38,11 @@ InftyAI is a non-profit organization focused on building AI infrastructure, incl
 ### 🗄️ Storage
 
 - [omnistore](https://github.com/InftyAI/omnistore): A unified Python client for various object-store providers.
+
+### 📦 Archived
+
+- [Manta](https://github.com/InftyAI/Manta): A lightweight P2P-based cache system for model distributions on Kubernetes.
+- [PR-Copilot](https://github.com/InftyAI/PR-Copilot): An AI pair programmer specialized in code review, code summary and code completion.
 
 ## Community
 
