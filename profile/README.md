@@ -4,8 +4,10 @@
 
 <p align="center">
   <a href="https://github.com/inftyai"><img src="https://img.shields.io/github/stars/inftyai" /></a>
-  <a href="https://x.com/inftyai"><img src="https://img.shields.io/badge/InftyAI-000000?style=flat&logo=x" /></a>
   <a href="https://discord.gg/UWnjUG6X8j"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" /></a>
+  <a href="https://x.com/inftyai"><img src="https://img.shields.io/badge/InftyAI-000000?style=flat&logo=x" /></a>
+  <a href="https://inftyai.com"><img src="https://img.shields.io/badge/Website-blue?style=flat&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://huggingface.co/inftyai"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" /></a>
 </p>
 
 # Hey, this is InftyAI 🪂
